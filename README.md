@@ -6,7 +6,7 @@ CHAPTER
 
 ### 변수
 
-- [x] Variable [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/01.codeStructure.js)
+- [x] Variable [바로가기](https://github.com/Stilllee/jsDream/blob/main/1.variable.js)
 - [x] Variables [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/02.variables.js)
 - [x] Strict Mode [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/03.strictMode.js)
 - [x] Global This [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/04.globalThis.js)
@@ -15,7 +15,7 @@ CHAPTER
 
 ---
 
-### Operations
+<!-- ### Operations
 
 - [x] Operations (기본 연산자) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/07-1.operation.js)
 - [x] Operations (비교 연산자) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/07-2.operation.js)
@@ -54,4 +54,4 @@ CHAPTER
 
 - [x] Object (Object) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/11-1.object.js)
 - [x] Object (copy by reference) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/11-2.object.js)
-- [x] Object (Garbage Collection) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/11-3.object.js)
+- [x] Object (Garbage Collection) [바로가기](https://github.com/simseonbeom/core-javascript/blob/01.core/client/chapter/core/11-3.object.js) -->
