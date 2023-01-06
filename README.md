@@ -21,14 +21,14 @@ CHAPTER
 
 ### 연산자
 
-- [x] Expression [바로가기]()
-- [x] Arithmetic [바로가기]()
-- [x] Unary [바로가기]()
-- [x] Assignment [바로가기]()
-- [x] Increment [바로가기]()
-- [x] Relational [바로가기]()
-- [x] Priority [바로가기]()
-- [x] Equality [바로가기]()
+- [x] Expression [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/1.expression.js)
+- [x] Arithmetic [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/2.arithmetic.js)
+- [x] Unary [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/3.unary.js)
+- [x] Assignment [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/4.assignment.js)
+- [x] Increment [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/5.increment.js)
+- [x] Relational [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/6.relational.js)
+- [x] Priority [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/7.priority.js)
+- [x] Equality [바로가기](https://github.com/Stilllee/jsDream/blob/main/2.operator/8.equality.js)
 
 ---
 
