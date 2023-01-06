@@ -36,13 +36,13 @@
 
 ### 제어문
 
-- [x] If [바로가기]()
-- [x] Ternary [바로가기]()
-- [x] Quiz [바로가기]()
-- [x] Switch [바로가기]()
-- [x] For [바로가기]()
-- [x] While [바로가기]()
-- [x] Logical [바로가기]()
+- [x] If [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/1.if.js)
+- [x] Ternary [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/2.ternary.js)
+- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/3.quiz.js)
+- [x] Switch [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/4.switch.js)
+- [x] For [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/5.for.js)
+- [x] While [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/6.while.js)
+- [x] Logical [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/7.logical.js)
 
 <!-- ### 제어문
 
