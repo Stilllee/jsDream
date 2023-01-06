@@ -21,6 +21,22 @@ CHAPTER
 
 ### 연산자
 
+- [x] Expression [바로가기]()
+- [x] Arithmetic [바로가기]()
+- [x] Unary [바로가기]()
+- [x] Assignment [바로가기]()
+- [x] Increment [바로가기]()
+- [x] Relational [바로가기]()
+- [x] Priority [바로가기]()
+- [x] Equality [바로가기]()
+
+---
+
+### 제어문
+
 - [] [바로가기]()
 
-<!-- - [] [바로가기]() -->
+<!-- ### 제어문
+
+- [] [바로가기]()
+ -->
