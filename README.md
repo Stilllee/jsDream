@@ -44,6 +44,17 @@
 - [x] While [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/6.while.js)
 - [x] Logical [바로가기](https://github.com/Stilllee/jsDream/blob/main/3.control/7.logical.js)
 
+### 함수
+
+- [x] Basic [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/1.basic.js)
+- [x] Memory [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/2.memory.js)
+- [x] Return [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/3.return.js)
+- [x] Parameters [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/4.parameters.js)
+- [x] Expression [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/5.expression.js)
+- [x] Callback [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/6.callback.js)
+- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/7.quiz.js)
+- [x] Immutability [바로가기](https://github.com/Stilllee/jsDream/blob/main/4.function/8.immutability.js)
+
 <!-- ### 제어문
 
 - [] [바로가기]() -->
