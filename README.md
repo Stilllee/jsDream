@@ -72,7 +72,6 @@
 ### 클래스
 
 - [x] Basic [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/1.basic.js)
-
 - [x] Static [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/2.static.js)
 - [x] Field [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/3.field.js)
 - [x] Getter [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/4.getter.js)
