@@ -79,9 +79,16 @@
 - [x] Quiz1 [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/6.quiz1.js)
 - [x] Quiz2 [바로가기](https://github.com/Stilllee/jsDream/blob/main/6.class/7.quiz2.js)
 
-<!-- ### 유용한 객체들
+---
 
-- [] [바로가기]() -->
+### 유용한 객체들
+
+- [x] Wrapper <!-- [바로가기]() -->
+- [x] Global <!-- [바로가기]() -->
+- [x] Boolean <!-- [바로가기]() -->
+
+---
+
 <!-- ### 배열
 
 - [] [바로가기]() -->
