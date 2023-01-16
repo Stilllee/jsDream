@@ -83,9 +83,14 @@
 
 ### 유용한 객체들
 
-- [x] Wrapper <!-- [바로가기]() -->
-- [x] Global <!-- [바로가기]() -->
-- [x] Boolean <!-- [바로가기]() -->
+- [x] Wrapper [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/1.wrapper.js)
+- [x] Global [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/2.global.js)
+- [x] Boolean [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/3.boolean.js)
+- [x] Number [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/4.number.js)
+- [x] Math [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/5.math.js)
+- [x] String [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/6.string.js)
+- [x] Date [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/7.date.js)
+- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/7.built-in/8.quiz.js)
 
 ---
 
