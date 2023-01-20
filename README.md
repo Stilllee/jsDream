@@ -96,9 +96,12 @@
 
 ### 배열
 
-- [x] Array [바로가기]()
-- [x] Add [바로가기]()
-- [x] Array Method [바로가기]()
+- [x] Array [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/1.array.js)
+- [x] Add [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/2.add.js)
+- [x] Array Method [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/3.array-method.js)
+- [x] Shallow [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/4.shallow.js)
+- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/5.quiz.js)
+- [x] hof [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/6.hof.js)
 
 ---
 
