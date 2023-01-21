@@ -101,7 +101,8 @@
 - [x] Array Method [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/3.array-method.js)
 - [x] Shallow [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/4.shallow.js)
 - [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/5.quiz.js)
-- [x] hof [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/6.hof.js)
+- [x] Hof [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/6.hof.js)
+- [x] Quiz2 [바로가기](https://github.com/Stilllee/jsDream/blob/main/8.array/7.quiz.js)
 
 ---
 
