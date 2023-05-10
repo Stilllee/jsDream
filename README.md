@@ -124,11 +124,11 @@
 - [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/3.quiz.js)
 - [x] Symbol [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/4.symbol.js)
 
-<!--
+---
 
 ### 유용한 연산자들
 
-- [] [바로가기]() -->
+- [x] Logical [바로가기](https://github.com/Stilllee/jsDream/blob/main/11.more-operators/1.logical.js)
 
 <!-- ### 주석, 에러처리, 모듈
 
