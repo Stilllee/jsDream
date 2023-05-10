@@ -129,6 +129,7 @@
 ### 유용한 연산자들
 
 - [x] Logical [바로가기](https://github.com/Stilllee/jsDream/blob/main/11.more-operators/1.logical.js)
+- [x] Obtional [바로가기](https://github.com/Stilllee/jsDream/blob/main/11.more-operators/2.optional.js)
 
 <!-- ### 주석, 에러처리, 모듈
 
