@@ -120,6 +120,7 @@
 ### Map과 Set
 
 - [x] Set [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/1.set.js)
+- [x] Map [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/2.map.js)
 
 <!--
 
