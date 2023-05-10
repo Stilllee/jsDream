@@ -122,6 +122,7 @@
 - [x] Set [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/1.set.js)
 - [x] Map [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/2.map.js)
 - [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/3.quiz.js)
+- [x] Symbol [바로가기](https://github.com/Stilllee/jsDream/blob/main/10.map/4.symbol.js)
 
 <!--
 
