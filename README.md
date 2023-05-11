@@ -146,6 +146,7 @@
 ### 비동기
 
 - [x] Callstack [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/1.callstack.js)
+- [x] Timeout [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/2.timeout.js)
 
 <!-- ### 스코프
 
