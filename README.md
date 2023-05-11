@@ -138,6 +138,7 @@
 
 - [x] Comments [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/1.comments.js)
 - [x] Error-Handling [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/2.error-handling.js)
+- [x] Error-Bubbling [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/3.error-bubbling.js)
 
 <!-- ### 비동기
 
