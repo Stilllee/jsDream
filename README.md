@@ -148,9 +148,10 @@
 - [x] Callstack [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/1.callstack.js)
 - [x] Timeout [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/2.timeout.js)
 - [x] Timeout-Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/3.timeout-quiz.js)
-- [x] Promise[바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/4.promise.js)
-- [x] Promise-Egg[바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/5.promise-egg.js)
-- [x] Promise-All[바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/6.promise-all.js)
+- [x] Promise [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/4.promise.js)
+- [x] Promise-Egg [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/5.promise-egg.js)
+- [x] Promise-All [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/6.promise-all.js)
+- [x] Async [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/7.async.js)
 
 <!-- ### 스코프
 
