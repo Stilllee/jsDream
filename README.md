@@ -132,9 +132,12 @@
 - [x] Obtional [바로가기](https://github.com/Stilllee/jsDream/blob/main/11.more-operators/2.optional.js)
 - [x] Nullish [바로가기](https://github.com/Stilllee/jsDream/blob/main/11.more-operators/3.nullish.js)
 
-<!-- ### 주석, 에러처리, 모듈
+---
 
-- [] [바로가기]() -->
+### 주석, 에러처리, 모듈
+
+- [x] Comments [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/1.comments.js)
+
 <!-- ### 비동기
 
 - [] [바로가기]() -->
