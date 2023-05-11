@@ -152,6 +152,7 @@
 - [x] Promise-Egg [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/5.promise-egg.js)
 - [x] Promise-All [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/6.promise-all.js)
 - [x] Async [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/7.async.js)
+- [x] Async-Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/8.async-quiz.js)
 
 <!-- ### 스코프
 
