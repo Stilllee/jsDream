@@ -153,7 +153,8 @@
 - [x] Promise-All [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/6.promise-all.js)
 - [x] Async [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/7.async.js)
 - [x] Async-Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/8.async-quiz.js)
-- [x] Json [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/9.json.js)
+- [x] JSON [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/9.json.js)
+- [x] 네트워크 통신 사용해보기 [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/index.html)
 
 <!-- ### 스코프
 
