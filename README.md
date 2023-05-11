@@ -141,9 +141,12 @@
 - [x] Error-Bubbling [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/3.error-bubbling.js)
 - [x] 모듈 작성법 [바로가기](https://github.com/Stilllee/jsDream/blob/main/12.module/index.html)
 
-<!-- ### 비동기
+---
 
-- [] [바로가기]() -->
+### 비동기
+
+- [x] Callstack [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/1.callstack.js)
+
 <!-- ### 스코프
 
 - [] [바로가기]() -->
