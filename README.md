@@ -149,6 +149,7 @@
 - [x] Timeout [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/2.timeout.js)
 - [x] Timeout-Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/3.timeout-quiz.js)
 - [x] Promise[바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/4.promise.js)
+- [x] Promise-Egg[바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/5.promise-egg.js)
 
 <!-- ### 스코프
 
