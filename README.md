@@ -178,10 +178,11 @@
 - [x] Mixin [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/5.mixin.js)
 - [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/6.quiz.js)
 
-<!-- ### 클로저
+---
 
-- [] [바로가기]() -->
-<!-- ### This
+### 클로저
+
+- [x] Closure [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/1.closure.js)
 
 - [] [바로가기]() -->
 
