@@ -163,6 +163,7 @@
 - [x] Scope [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/1.scope.js)
 - [x] Scope-Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/2.scope-quiz.js)
 - [x] Garbage Collection [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/3.gc.js)
+- [x] Hoisting [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/4.hoisting.js)
 
 <!-- ### 프로토타입
 
