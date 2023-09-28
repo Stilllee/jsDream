@@ -172,6 +172,7 @@
 ### 프로토타입
 
 - [x] Property [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/1.property.js)
+- [x] Freeze [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/2.freeze.js)
 
 <!-- ### 클로저
 
