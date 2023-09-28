@@ -156,9 +156,12 @@
 - [x] JSON [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/9.json.js)
 - [x] 네트워크 통신 사용해보기 [바로가기](https://github.com/Stilllee/jsDream/blob/main/13.promise/index.html)
 
-<!-- ### 스코프
+---
 
-- [] [바로가기]() -->
+### 스코프
+
+- [x] Scope [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/1.scope.js)
+
 <!-- ### 프로토타입
 
 - [] [바로가기]() -->
