@@ -165,6 +165,7 @@
 - [x] Garbage Collection [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/3.gc.js)
 - [x] Hoisting [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/4.hoisting.js)
 - [x] Var [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/5.var.js)
+- [x] Strict [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/6.strict.js)
 
 <!-- ### 프로토타입
 
