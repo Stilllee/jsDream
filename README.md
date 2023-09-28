@@ -167,9 +167,12 @@
 - [x] Var [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/5.var.js)
 - [x] Strict [바로가기](https://github.com/Stilllee/jsDream/blob/main/14.scope/6.strict.js)
 
-<!-- ### 프로토타입
+---
 
-- [] [바로가기]() -->
+### 프로토타입
+
+- [x] Property [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/1.property.js)
+
 <!-- ### 클로저
 
 - [] [바로가기]() -->
