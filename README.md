@@ -175,6 +175,7 @@
 - [x] Freeze [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/2.freeze.js)
 - [x] Prototype [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/3.prototype.js)
 - [x] Inheritance [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/4.inheritance.js)
+- [x] Mixin [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/5.mixin.js)
 
 <!-- ### 클로저
 
