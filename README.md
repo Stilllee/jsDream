@@ -183,6 +183,7 @@
 ### 클로저
 
 - [x] Closure [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/1.closure.js)
+- [x] Why [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/2.why.js)
 
 - [] [바로가기]() -->
 
