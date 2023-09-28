@@ -35,3 +35,11 @@ Panda.prototype.eat = () => {
 const panda1 = new Panda("푸바오", "🐼");
 panda1.printName(); // 판다 🐼
 panda1.eat(); // 대나무 먹바옹 🎋
+
+// 상속도 확인 하는 법
+console.log(dog1 instanceof Dog); // true
+console.log(dog1 instanceof Animal); // true
+console.log(dog1 instanceof Panda); // false
+console.log(panda1 instanceof Dog); // false
+console.log(panda1 instanceof Animal); // true
+console.log(panda1 instanceof Panda); // true
