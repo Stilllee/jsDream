@@ -182,12 +182,12 @@
 
 ### 클로저
 
-- [x] Closure [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/1.closure.js)
-- [x] Why [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/2.why.js)
-- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/15.prototype/3.var.js)
+- [x] Closure [바로가기](https://github.com/Stilllee/jsDream/blob/main/16.closure/1.closure.js)
+- [x] Why [바로가기](https://github.com/Stilllee/jsDream/blob/main/16.closure/2.why.js)
+- [x] Quiz [바로가기](https://github.com/Stilllee/jsDream/blob/main/16.closure/3.var.js)
 
-- [] [바로가기]() -->
+---
 
-<!-- ### 바벨
+### 바벨
 
-- [] [바로가기]() -->
+- [x] This [바로가기](https://github.com/Stilllee/jsDream/blob/main/17.this/1.this.js)
