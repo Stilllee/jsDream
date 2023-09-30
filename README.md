@@ -191,3 +191,4 @@
 ### 바벨
 
 - [x] This [바로가기](https://github.com/Stilllee/jsDream/blob/main/17.this/1.this.js)
+- [x] Binding [바로가기](https://github.com/Stilllee/jsDream/blob/main/17.this/2.binding.js)
